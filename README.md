@@ -1,2 +1,2 @@
 # Angwandete_Programierung_HTW
-this is a test respositorty for HTW Berlin tasks 
+this is a test respository for HTW Berlin tasks 
